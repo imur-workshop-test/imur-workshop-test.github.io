@@ -1,0 +1,58 @@
+# Global options
+baseurl = "https://crl-uai-2022.github.io/"
+canonifyurls = true
+languagecode = "en"
+theme = "crl-uai-2022-theme"
+disableKinds = ["taxonomyTerm"]
+
+# Params that are used in <head>
+[params]
+  supertitle = "First Workshop on"
+  title = "Causal Representation Learning"
+  subtitle = "August 5 @ UAI 2022"
+  author = "Julius von Kügelgen, Luigi Gresele, Francesco Locatello, Sara Magliacane, Nan Rosemary Ke, Yixin Wang, Yoshua Bengio, Timothy Gebhard"
+  description = "First Workshop on Causal Representation Learning (UAI 2022)"
+  keywords = ["workshop", "causal representation learning"]
+
+# Options for Markdown renderer
+[markup.goldmark.renderer]
+  unsafe = true
+  xHTML = true
+
+# Main menu
+[[menu.main]]
+    name = "Call for Papers"
+    url  = "/call-for-papers"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url  = "/about"
+    weight = 2
+[[menu.main]]
+    name = "Dates"
+    url  = "/dates"
+    weight = 3
+[[menu.main]]
+    name = "Formatting Instructions"
+    url  = "/formatting-instructions"
+    weight = 4
+[[menu.main]]
+    name = "Organisers and Reviewers"
+    url  = "/organisers-reviewers"
+    weight = 5
+[[menu.main]]
+    name = "Accepted Papers"
+    url  = "/accepted-papers"
+    weight = 6
+[[menu.main]]
+    name = "Schedule and Format"
+    url  = "/schedule-format"
+    weight = 7
+[[menu.main]]
+    name = "Invited Speakers"
+    url  = "/invited-speakers"
+    weight = 8
+[[menu.main]]
+    name = "Slides and Recording"
+    url  = "/slides-recording"
+    weight = 9
