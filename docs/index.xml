@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://imur-workshop-test.github.io/about/</guid>
-      <description>About the workshop Machine learning (ML) has established itself as the dominant and most successful paradigm for artificial intelligence (AI). A key strength of ML over earlier (symbolic, logic and rule-based) approaches to AI, is its ability to infer useful features or representations of often very high-dimensional observations in an automated, data-driven way. However, in doing so, it generally only leverages statistical information (e.g., correlations present in a training set) and consequently struggles at tasks such as knowledge transfer, systematic generalization, or planning, which are thought to require higher-order cognition.</description>
+      <description>About the workshop </description>
     </item>
     
     <item>
@@ -21,15 +21,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://imur-workshop-test.github.io/accepted-papers/</guid>
-      <description>Accepted Papers Orals Multivariable Causal Discovery with General Nonlinear Relationships
-Patrik Reizinger, Yash Sharma, Matthias Bethge, Bernhard Schölkopf, Ferenc Huszár, Wieland Brendel
-Abstraction between Structural Causal Models: A Review of Definitions and Properties Fabio Massimo Zennaro
-Partial Disentanglement via Mechanism Sparsity
-Sebastien Lachapelle, Simon Lacoste-Julien
-Causal Class Activation Maps for Weakly-Supervised Semantic Segmentation
-Yiping Wang
-Posters A Meta-Reinforcement Learning Algorithm for Causal Discovery
-Andreas W.M. Sauter, Erman Acar, Vincent Francois-Lavet</description>
+      <description>Accepted Papers </description>
     </item>
     
     <item>
@@ -38,8 +30,7 @@ Andreas W.M. Sauter, Erman Acar, Vincent Francois-Lavet</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://imur-workshop-test.github.io/call-for-papers/</guid>
-      <description>Call for Papers We welcome submissions related to any aspects of CRL, including but not limited to:
-Learning latent (structural) causal models &amp;amp; structured (deep) generative models Interventional representations, causal digital twins &amp;amp; structured (causal) world models Post-hoc extraction of causal relations from (deep) generative models Self-supervised causal representation learning Multi-environment &amp;amp; multi-view causal representation learning Micro vs. macro/coarse-grained/multi-level causal systems Identifiable representation learning &amp;amp; nonlinear ICA Uncertainty quantification in (causal) representation learning Group-theoretic &amp;amp; symmetry-based views on disentanglement Invariance &amp;amp; equivariance in representation learning Interdisciplinary perspectives on causal representation learning, including from cognitive science, psychology, (computational) neuroscience or philosophy Real-world applications of causal representation learning, including in biology, medical sciences, or robotics Submissions should present novel, unpublished work.</description>
+      <description>Call for Papers </description>
     </item>
     
     <item>
@@ -48,9 +39,7 @@ Learning latent (structural) causal models &amp;amp; structured (deep) generativ
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://imur-workshop-test.github.io/formatting-instructions/</guid>
-      <description>Formatting Instructions Style &amp;amp; Author Instructions Submissions should be formatted using the UAI latex template and formatting instructions. Papers must be submitted as a PDF file and should be 4-6 pages in length, including all main results, figures, and tables. Appendices containing additional details are allowed, but reviewers are not expected to take this into account.
-Submission Link https://openreview.net/group?id=auai.org/UAI/2022/Workshop/CRL
-Camera-Ready Revisions Camera-Ready revisions are now enabled in OpenReview. While the workshop has no official proceedings, we strongly encourage you to submit a revised &amp;ldquo;camera-ready&amp;rdquo; version taking reviewers&amp;rsquo; comments and suggestions into account.</description>
+      <description>Formatting Instructions </description>
     </item>
     
     <item>
@@ -68,7 +57,18 @@ Camera-Ready Revisions Camera-Ready revisions are now enabled in OpenReview. Whi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://imur-workshop-test.github.io/invited-speakers/</guid>
-      <description>Invited Speakers Bernhard Schölkopf Alison Gopnik Aapo Hyvärinen Caroline Uhler Gemma Moran Sander Beckers Phillip Lippe Anirudh Goyal </description>
+      <description>Invited Speakers Matej Zečević (TU Darmstadt) Jane X. Wang
+(DeepMind) Claudia Shi
+(Columbia University) Victor Veitch
+(University of Chicago &amp; Google Brai) Amit Sharma
+(Microsoft Research) Elias Bareinboim
+(Columbia University) Panellists Maria Antoniak
+(Allen Institute for AI) Giambattista Parascandolo
+(OpenAI) Atticus Geiger
+(Standford ?? Pr(Ai)²R Group) Charlotte Bunne
+(EPFL) Chelsea Finn
+(Stanford) Zhijing Jin
+(Max Planck Institute &amp; ETH) </description>
     </item>
     
     <item>
@@ -77,15 +77,8 @@ Camera-Ready Revisions Camera-Ready revisions are now enabled in OpenReview. Whi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://imur-workshop-test.github.io/organisers-reviewers/</guid>
-      <description>Organisers Julius von Kügelgen Luigi Gresele Francesco Locatello Sara Magliacane Nan Rosemary Ke Yixin Wang Yoshua Bengio Reviewers Adam Li, Columbia University
-Alexander Hägele, ETHZ - ETH Zurich
-Biwei Huang, Carnegie Mellon University
-Bohdan Kivva, University of Chicago
-Bryon Aragam, University of Chicago
-Chandler Squires, Massachusetts Institute of Technology
-Cian Eastwood, University of Edinburgh
-Daniel Malinsky, Johns Hopkins University
-Davide Talon, Università degli Studi di Genova, Istituto Italiano di Tecnologia</description>
+      <description>Organisers Reviewers Contact For any questions or comments, please contact us at calmworkshop2024@gmail.com
+Thanks also to Timothy Gebhard for creating the template for the workshop website! </description>
     </item>
     
     <item>
@@ -94,18 +87,7 @@ Davide Talon, Università degli Studi di Genova, Istituto Italiano di Tecnologia
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://imur-workshop-test.github.io/reviewers/</guid>
-      <description>Reviewers Adam Li, Columbia University
-Alexander Hägele, ETHZ - ETH Zurich
-Biwei Huang, Carnegie Mellon University
-Bohdan Kivva, University of Chicago
-Bryon Aragam, University of Chicago
-Chandler Squires, Massachusetts Institute of Technology
-Cian Eastwood, University of Edinburgh
-Daniel Malinsky, Johns Hopkins University
-Davide Talon, Università degli Studi di Genova, Istituto Italiano di Tecnologia
-Dhanya Sridhar, Université de Montréal and Mila-Quebec AI Institute
-Furui Liu, Huawei Technologies Ltd.
-Gargi Balasubramaniam, University of Illinois, Urbana Champaign</description>
+      <description>Reviewers </description>
     </item>
     
     <item>
@@ -114,7 +96,7 @@ Gargi Balasubramaniam, University of Illinois, Urbana Champaign</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://imur-workshop-test.github.io/schedule-format/</guid>
-      <description>Workshop Schedule Legend: contributed · invited · break Time Program Format 09:00 - 09:30 Introductory remarks In-person 09:30 - 10:00 Aapo Hyvärinen - &#34;Causal Discovery and Latent-Variable Models&#34; Virtual (live) 10:00 - 10:30 Coffee break - 10:30 - 10:45 Sebastien Lachapelle - “Partial Disentanglement via Mechanism Sparsity” In-person 10:45 - 11:00 Patrik Reizinger - “Multivariable Causal Discovery with General Nonlinear Relationships” In-person 11:00 - 11:30 Phillip Lippe - &#34;Learning Causal Variables from Temporal Sequences with Interventions&#34;</description>
+      <description>Workshop Schedule </description>
     </item>
     
     <item>
@@ -123,8 +105,7 @@ Gargi Balasubramaniam, University of Illinois, Urbana Champaign</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://imur-workshop-test.github.io/slides-recording/</guid>
-      <description>Slides Slides from the speakers can be downloaded at the links below.
-Aapo Hyvärinen, &amp;ldquo;Causal Discovery and Latent-Variable Models&amp;rdquo; Sebastien Lachapelle, &amp;ldquo;Partial Disentanglement via Mechanism Sparsity&amp;rdquo; Patrik Reizinger, &amp;ldquo;Multivariate Causal Discovery with General Nonlinear Relationships&amp;rdquo; Phillip Lippe, &amp;ldquo;Learning Causal Variables from Temporal Sequences with Interventions&amp;rdquo; Anirudh Goyal, &amp;ldquo;From Specialists to Generalists&amp;rdquo; Sander Beckers, &amp;ldquo;Causal Abstractions and Causal Representation Learning&amp;rdquo; Caroline Uhler, &amp;ldquo;Causal Imputation&amp;rdquo; Fabio Massimo Zennaro, &amp;ldquo;Abstraction between Structural Causal Models: A Review of Definitions and Properties&amp;rdquo; Yiping Wang, &amp;ldquo;Causal Class Activation Map for Weakly-Supervised Semantic Segmentation&amp;rdquo; Bernhard Schölkopf, &amp;ldquo;Desiderata for Causal Representations&amp;rdquo; Gemma Moran, &amp;ldquo;Identifiable Deep Generative Models via Sparse Decoding&amp;rdquo; Recording This is a recording of talks that took place in the second part of the workshop (after the lunch break); recordings of the first part of the workshop are unfortunately not available.</description>
+      <description>Slides </description>
     </item>
     
   </channel>
