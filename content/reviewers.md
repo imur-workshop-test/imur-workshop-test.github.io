@@ -4,7 +4,7 @@ title: "Reviewers"
 
 # Reviewers
 
-Adam Li, Columbia University
+<!-- Adam Li, Columbia University
 
 Alexander Hägele, ETHZ - ETH Zurich
 
@@ -80,5 +80,5 @@ T. Anderson Keller, University of Amsterdam
 
 Vitoria Barin Pacela, Montreal Institute for Learning Algorithms, University of Montreal, Université de Montréal
 
-Yujia Zheng, Carnegie Mellon University
+Yujia Zheng, Carnegie Mellon University -->
 

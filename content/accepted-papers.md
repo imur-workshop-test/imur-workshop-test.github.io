@@ -4,7 +4,7 @@ title: "Accepted Papers"
 
 # Accepted Papers
 
-## Orals
+<!-- ## Orals
 
 * [**Multivariable Causal Discovery with General Nonlinear Relationships**](https://openreview.net/forum?id=TsXe-CyYJqx)  
 Patrik Reizinger, Yash Sharma, Matthias Bethge, Bernhard Schölkopf, Ferenc Huszár, Wieland Brendel  
@@ -131,4 +131,4 @@ Ruben van Bergen, Pablo Lanillos
 
 
 * [**Can Foundation Models Talk Causality?**](https://openreview.net/forum?id=DbJXEqU0kaM)  
-Moritz Willig, Matej Zečević, Devendra Singh Dhami, Kristian Kersting
+Moritz Willig, Matej Zečević, Devendra Singh Dhami, Kristian Kersting -->

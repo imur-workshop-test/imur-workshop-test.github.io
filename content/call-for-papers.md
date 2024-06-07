@@ -4,7 +4,7 @@ title: "Call for Papers"
 
 # Call for Papers
 
-We welcome submissions related to any aspects of CRL, including but not limited to:
+<!-- We welcome submissions related to any aspects of CRL, including but not limited to:
 
 * Learning latent (structural) causal models & structured (deep) generative models
 * Interventional representations, causal digital twins & structured (causal) world models
@@ -22,4 +22,4 @@ We welcome submissions related to any aspects of CRL, including but not limited 
 
 Submissions should present novel, unpublished work. Work that previously appeared in non-archival venues (such as arXiv or other workshops without proceedings) is allowed.
 
-The CRL workshop is non-archival, and should thus generally not violate dual submission policies at other archival venues (e.g., submitting work that is currently under review at another conference such as NeurIPS is permitted); if unsure, please check yourself with the corresponding venue.
+The CRL workshop is non-archival, and should thus generally not violate dual submission policies at other archival venues (e.g., submitting work that is currently under review at another conference such as NeurIPS is permitted); if unsure, please check yourself with the corresponding venue. -->

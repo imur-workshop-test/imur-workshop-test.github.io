@@ -4,7 +4,7 @@ title: "Slides and Recording"
 
 # Slides
 
-Slides from the speakers can be downloaded at the links below.
+<!-- Slides from the speakers can be downloaded at the links below.
 
 * [Aapo Hyvärinen, "Causal Discovery and Latent-Variable Models"](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/Hyvarinen.pdf)
 * [Sebastien Lachapelle, "Partial Disentanglement via Mechanism Sparsity"](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/lachapelle.pptx)
@@ -24,4 +24,4 @@ This is a recording of talks that took place in the second part of the workshop 
 
 <div style="position: relative; padding-bottom: 66.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/kSwURlFarzE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="Recording of the Workshop (Second Part)"></iframe>
-</div>
+</div> -->

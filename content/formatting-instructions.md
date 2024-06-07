@@ -4,7 +4,7 @@ title: "Formatting Instructions"
 
 # Formatting Instructions
 
-## Style & Author Instructions
+<!-- ## Style & Author Instructions
 
 Submissions should be formatted using the [UAI latex template and formatting instructions](https://www.auai.org/uai2022/formatting/uai2022-template.zip). Papers must be submitted as a PDF file and should be 4-6 pages in length, including all main results, figures, and tables. Appendices containing additional details are allowed, but reviewers are not expected to take this into account. 
 
@@ -20,5 +20,5 @@ Camera-Ready revisions are now enabled in OpenReview. While the workshop has no 
 
 ## Updated Style-File 
 
-To prepare your revision/camera-ready version, please use the following template: https://www.overleaf.com/read/jcgtpdmnkfhy [Menu -> Download Source -> unzip -> replace previous style file with the new uaicrl2022.cls -> add \documentclass[accepted]{uaicrl2022} to your tex file]
+To prepare your revision/camera-ready version, please use the following template: https://www.overleaf.com/read/jcgtpdmnkfhy [Menu -> Download Source -> unzip -> replace previous style file with the new uaicrl2022.cls -> add \documentclass[accepted]{uaicrl2022} to your tex file] -->
 

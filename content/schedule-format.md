@@ -5,14 +5,14 @@ title: "Schedule and Format"
 
 # Workshop Schedule
 
-<div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 18px; margin-top: 18px;">
+<!-- <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 18px; margin-top: 18px;">
     Legend:
     <span class="contributed">contributed</span> · 
     <span class="invited">invited</span> · 
     <span class="break">break</span>
-</div>
+</div> -->
 
-<table class="schedule">
+<!-- <table class="schedule">
     <tr>
         <th style="width:25%">Time</th>
         <th>Program</th>
@@ -132,4 +132,4 @@ There will be a single Zoom meeting for the whole day, which is accessible via U
 
 ## Poster Session
 
-All accepted papers will be presented as a poster at the workshop. All posters should be put up in the morning (e.g., during the first break) and will remain up during the whole day (i.e., all posters are presented during both poster sessions). It is allowed and encouraged to present posters both physically and virtually at the same time, e.g., if you have a co-author who will not attend in person and is willing to present online for the virtual participants.
+All accepted papers will be presented as a poster at the workshop. All posters should be put up in the morning (e.g., during the first break) and will remain up during the whole day (i.e., all posters are presented during both poster sessions). It is allowed and encouraged to present posters both physically and virtually at the same time, e.g., if you have a co-author who will not attend in person and is willing to present online for the virtual participants. -->

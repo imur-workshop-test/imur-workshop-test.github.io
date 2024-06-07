@@ -7,12 +7,12 @@ disableKinds = ["taxonomyTerm"]
 
 # Params that are used in <head>
 [params]
-  supertitle = "First Workshop on"
-  title = "Causal Representation Learning"
+  supertitle = "C♥️LM: First Workshop on"
+  title = "Causality and Large Models"
   subtitle = "December @ NeurIPS 2024"
   author = "Julius von Kügelgen, Luigi Gresele, Francesco Locatello, Sara Magliacane, Nan Rosemary Ke, Yixin Wang, Yoshua Bengio, Timothy Gebhard"
-  description = "First Workshop on Causal Representation Learning (UAI 2022)"
-  keywords = ["workshop", "causal representation learning"]
+  description = "First Workshop on Causality and Large Models (C♥️LM) @ NeurIPS 2024"
+  keywords = ["workshop", "causal representation learning", "large models"]
 
 # Options for Markdown renderer
 [markup.goldmark.renderer]

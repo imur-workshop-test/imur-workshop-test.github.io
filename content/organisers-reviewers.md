@@ -5,7 +5,7 @@ title: "Organisers"
 # Organisers
 
 <div class="list-of-people">
-    <div class="person">
+    <!-- <div class="person">
         <img src="/julius.jpg">
         <a href="https://sites.google.com/view/julius-von-kuegelgen/home">Julius von Kügelgen</a>
     </div>
@@ -32,12 +32,12 @@ title: "Organisers"
     <div class="person">
         <img src="/yoshua.jpg">
         <a href="https://yoshuabengio.org/">Yoshua Bengio</a>
-    </div>
+    </div> -->
 </div>
 
 # Reviewers
 
-Adam Li, Columbia University
+<!-- Adam Li, Columbia University
 
 Alexander Hägele, ETHZ - ETH Zurich
 
@@ -113,12 +113,12 @@ T. Anderson Keller, University of Amsterdam
 
 Vitoria Barin Pacela, Montreal Institute for Learning Algorithms, University of Montreal, Université de Montréal
 
-Yujia Zheng, Carnegie Mellon University
+Yujia Zheng, Carnegie Mellon University -->
 
 ## Contact
 
-For any questions or comments, please contact us at <crlworkshop.uai22@gmail.com>
+For any questions or comments, please contact us at <calmworkshop2024@gmail.com>
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-top: 18px;">
-    <em>Thanks also to <strong><a href="https://timothygebhard.de">Timothy Gebhard</a></strong> for helping us set up the workshop website!</em>
+    <em>Thanks also to <strong><a href="https://timothygebhard.de">Timothy Gebhard</a></strong> for creating the template for the workshop website!</em>
 </div>
