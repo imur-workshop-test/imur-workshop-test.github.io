@@ -19,7 +19,7 @@ title: "Invited Speakers"
     </div>
     <div class="person">
         <td><img src="/speaker4_victor.jpeg"></td>
-        <td><a href="http://victorveitch.com/">Victor Veitch<br>(University of Chicago & Google Brai)</a></td>
+        <td><a href="http://victorveitch.com/">Victor Veitch<br>(University of Chicago & Google DeepMind)</a></td>
     </div>
         <div class="person">
         <td><img src="/speaker5_amit.jpeg"></td>
@@ -77,7 +77,7 @@ title: "Invited Speakers"
     </div>
     <div class="person">
         <td><img src="/panellist3_atticus.jpeg"></td>
-        <td><a href="https://atticusg.github.io/">Atticus Geiger<br>(Standford ??  Pr(Ai)²R Group)</a></td>
+        <td><a href="https://atticusg.github.io/">Atticus Geiger<br>(Pr(Ai)²R Group)</a></td>
     </div>
     <div class="person">
         <td><img src="/panellist4_charlotte.webp"></td>
